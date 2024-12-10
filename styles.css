@@ -99,5 +99,12 @@ body::before{
     border-top: 2px solid #ccc; 
 }
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
 
 
